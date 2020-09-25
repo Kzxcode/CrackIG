@@ -1,6 +1,6 @@
 # CrackIG
 
-<h6> $ pkg install git
+<h6> $ pkg install git </h6>
 <h6> $ pkg install python
 <h6> $ pkg install python3
 <h6> $ pip install requests
